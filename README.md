@@ -26,6 +26,7 @@ by using the AFDKO makeotf tool.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * npm 3.x<br/>
 	`npm install git://github.com/adobe-fonts/source-code-pro.git#release`
 <<<<<<< HEAD
@@ -91,6 +92,10 @@ or this on Windows:
 =======
 >>>>>>> master
 >>>>>>> origin/release
+=======
+* npm 3.x<br/>
+	`npm install git://github.com/adobe-fonts/source-code-pro.git#release`
+>>>>>>> adobe-fonts/release
 =======
 * npm 3.x<br/>
 	`npm install git://github.com/adobe-fonts/source-code-pro.git#release`
