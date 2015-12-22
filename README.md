@@ -27,12 +27,16 @@ by using the AFDKO makeotf tool.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * npm 3.x<br/>
 	`npm install git://github.com/adobe-fonts/source-code-pro.git#release`
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> origin/release
+=======
 =======
 >>>>>>> origin/release
 =======
@@ -78,6 +82,7 @@ or this on Windows:
 ```
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> adobe-fonts/gh-pages
 =======
@@ -100,6 +105,9 @@ or this on Windows:
 * npm 3.x<br/>
 	`npm install git://github.com/adobe-fonts/source-code-pro.git#release`
 >>>>>>> adobe-fonts/release
+=======
+>>>>>>> master
+>>>>>>> origin/release
 
 =======
 >>>>>>> adobe-fonts/gh-pages
